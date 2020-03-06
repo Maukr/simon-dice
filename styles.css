@@ -8,7 +8,7 @@
     background-color: blue;
 }
 #cuadro-3{
-    background-color: yellow;
+    background-color: orange;
 }
 #cuadro-4{
     background-color: green;
@@ -16,4 +16,5 @@
 .cuadro{
     opacity: 0.5;
     height: 150px;
+    transition: opacity 0.5s;
 }
