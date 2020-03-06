@@ -1,0 +1,19 @@
+#juego{
+    margin-top: 50px;
+}
+#cuadro-1{
+    background-color: red;
+}
+#cuadro-2{
+    background-color: blue;
+}
+#cuadro-3{
+    background-color: yellow;
+}
+#cuadro-4{
+    background-color: green;
+}
+.cuadro{
+    opacity: 0.5;
+    height: 150px;
+}
